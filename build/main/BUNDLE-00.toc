@@ -1,0 +1,1 @@
+([('main', '/Users/psuk/Python3/pycrypto/dist/main', 'EXECUTABLE')],)
